@@ -71,15 +71,15 @@ Fichier NA_Report créé et envoyé à l’équipe
 ---
 
 ## 📂 Structure du projet
-
+```text
 industrial-data-quality-automation/
 │
 ├── README.md
 ├── scripts/
-│ ├── data_quality_checks.py
-│ ├── compare_excel_files.py
-│ └── na_detection_and_report.py
-└── requirements.txt
+│   ├── data_quality_checks.py
+│   ├── compare_excel_files.py
+│   └── na_detection_and_report.py
+└── requirements.txt'''
 
 ---
 
